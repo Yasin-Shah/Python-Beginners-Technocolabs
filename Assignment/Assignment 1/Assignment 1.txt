@@ -1,0 +1,4 @@
+1.Write a Programe  of python for taking two inputes from user and perform Addition, Subtraction,Multiplication,and Divede operation on the input.
+2.Write a programe to check a given  input is integer type or not.
+3.Write a Programe to check Given input is the list items or not 
+4.Write a program for taking the value from user  in  list such as your name ,class,roll no,college name,Branch and to print all of this value in one line print function.
